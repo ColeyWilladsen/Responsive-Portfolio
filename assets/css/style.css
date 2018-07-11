@@ -63,7 +63,7 @@ h3 {
   /* Typography */
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color:black;
 }
 
 h1 {
@@ -121,7 +121,7 @@ h3 {
   text-decoration: none;
 
   /* Visual */
-  background: #4aaaa5;
+  background:black;
 }
 
 nav {
@@ -190,7 +190,7 @@ footer {
 
   /* Visual */
   background: #666;
-  border-top: 8px solid #4aaaa5;
+  border-top: 10px solid black;
 }
 
 /* main */
@@ -258,7 +258,7 @@ main {
 
   color: #fff;
   text-align: center;
-  background: #4aaaa5;
+  background: black;
 
   /* Visual */
   border-bottom: 0;
@@ -323,7 +323,7 @@ input[type=submit] {
 
   /* Misc */
   cursor: pointer;
-  background: #4aaaa5;
+  background:black;
 
   /* Visual */
   border: 0 none;
